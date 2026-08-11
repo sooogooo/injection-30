@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1200" viewBox="0 0 900 1200" role="img" aria-labelledby="title desc">
+  <title id="title">注射美容 30 讲</title>
+  <desc id="desc">注射美容科普系列总览海报，五个模块组成一套写给普通消费者的注射安全说明书</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f1f7f8"/>
+      <stop offset="1" stop-color="#fff6eb"/>
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="130%">
+      <feDropShadow dx="0" dy="6" stdDeviation="9" flood-color="#183642" flood-opacity="0.10"/>
+    </filter>
+    <style>
+      .series { font: 700 16px 'Microsoft YaHei', 'Noto Sans CJK SC', sans-serif; letter-spacing: 2px; fill: #0072B2; }
+      .title { font: 700 44px 'Microsoft YaHei', 'Noto Sans CJK SC', sans-serif; fill: #17323d; }
+      .kicker { font: 500 20px 'Microsoft YaHei', 'Noto Sans CJK SC', sans-serif; fill: #52656c; }
+      .nodeTitle { font: 700 20px 'Microsoft YaHei', 'Noto Sans CJK SC', sans-serif; fill: #17323d; }
+      .body { font: 500 17px 'Microsoft YaHei', 'Noto Sans CJK SC', sans-serif; fill: #3e5057; }
+      .small { font: 500 14px 'Microsoft YaHei', 'Noto Sans CJK SC', sans-serif; fill: #5c6c72; }
+      .quote { font: 700 24px 'Microsoft YaHei', 'Noto Sans CJK SC', sans-serif; fill: #17323d; }
+      .footer { font: 500 13px 'Microsoft YaHei', 'Noto Sans CJK SC', sans-serif; fill: #68787e; }
+      .big { font: 700 26px 'Microsoft YaHei', 'Noto Sans CJK SC', sans-serif; fill: #ffffff; }
+      .ringLabel { font: 700 18px 'Microsoft YaHei', 'Noto Sans CJK SC', sans-serif; fill: #17323d; }
+    </style>
+  </defs>
+  <rect width="900" height="1200" rx="30" fill="url(#bg)"/>
+  <rect x="40" y="40" width="820" height="1120" rx="26" fill="#ffffff" opacity="0.96" stroke="#dce8e8" filter="url(#shadow)"/>
+  <text x="76" y="104" class="series">注射美容 30 讲 · 系列总览</text>
+  <text x="76" y="166" class="title">注射美容 30 讲</text>
+  <text x="76" y="206" class="kicker">写给普通消费者的注射安全说明书 · 80% 消费者篇 / 20% 专业篇</text>
+  <line x1="76" y1="238" x2="824" y2="238" stroke="#dce5e5"/>
+  <g transform="translate(210 300) scale(1.15 1.15)">
+    <circle cx="0" cy="30" r="28" fill="#f6dcc8"/>
+    <path d="M -32 30 Q -34 -6 0 -4 Q 34 -6 32 30 L 32 52 Q 30 34 22 22 Q 8 6 -22 18 Q -30 26 -32 52 Z" fill="#3a4a52"/>
+    <path d="M -32 34 L -36 66 L -26 60 Z" fill="#3a4a52"/>
+    <path d="M 32 34 L 36 66 L 26 60 Z" fill="#3a4a52"/>
+    <path d="M -48 96 Q -48 66 -22 62 L 22 62 Q 48 66 48 96 L 48 206 Q 48 220 34 220 L -34 220 Q -48 220 -48 206 Z" fill="#E69F00"/>
+    <path d="M -22 62 Q 0 78 22 62" fill="none" stroke="#ffffff" stroke-width="2.5" opacity="0.7"/>
+  </g>
+  <g transform="translate(660 300) scale(-1.15 1.15)">
+    <path d="M -30 18 A 30 30 0 0 1 30 18 L 30 6 A 30 30 0 0 0 -30 6 Z" fill="#2f3e46"/>
+    <circle cx="0" cy="30" r="28" fill="#f6dcc8"/>
+    <path d="M -32 26 Q -32 -2 0 -2 Q 32 -2 32 26 L 32 14 Q 24 2 0 2 Q -24 2 -32 14 Z" fill="#2f3e46"/>
+    <path d="M -52 92 Q -52 66 -26 62 L 26 62 Q 52 66 52 92 L 52 210 Q 52 222 40 222 L -40 222 Q -52 222 -52 210 Z" fill="#ffffff" stroke="#c9d8de" stroke-width="2.5"/>
+    <path d="M 0 66 L -14 92 L 0 180 L 14 92 Z" fill="#56B4E9" opacity="0.85"/>
+    <path d="M -26 62 L 0 92 L 26 62" fill="none" stroke="#c9d8de" stroke-width="2.5"/>
+    <rect x="18" y="104" width="20" height="13" rx="3" fill="#0072B2"/>
+    <path d="M -14 66 Q -14 96 0 96 Q 14 96 14 66" fill="none" stroke="#009E73" stroke-width="3"/>
+    <circle cx="0" cy="100" r="5" fill="#009E73"/>
+  </g>
+  <path d="M 310 420 Q 450 350 560 420" fill="none" stroke="#7d8e93" stroke-width="2.5" stroke-dasharray="6 5"/>
+  <circle cx="435" cy="384" r="34" fill="#eef6f8" stroke="#0072B2" stroke-width="2.5"/>
+  <text x="435" y="392" class="nodeTitle" text-anchor="middle" fill="#0072B2">30</text>
+  <rect x="76" y="620" width="748" height="62" rx="14" fill="#f8fbfb" stroke="#e3ebeb"/>
+  <circle cx="108" cy="651" r="10" fill="#56B4E9"/>
+  <text x="132" y="658" class="nodeTitle">模块一 · 基础认知</text>
+  <text x="812" y="658" class="body" text-anchor="end">01–05 · 定性、名字、三轨、可逆、资质</text>
+  <rect x="76" y="696" width="748" height="62" rx="14" fill="#f8fbfb" stroke="#e3ebeb"/>
+  <circle cx="108" cy="727" r="10" fill="#009E73"/>
+  <text x="132" y="734" class="nodeTitle">模块二 · 肉毒毒素</text>
+  <text x="812" y="734" class="body" text-anchor="end">06–11 · 机制、边界、风险、补针与无应答</text>
+  <rect x="76" y="772" width="748" height="62" rx="14" fill="#f8fbfb" stroke="#e3ebeb"/>
+  <circle cx="108" cy="803" r="10" fill="#0072B2"/>
+  <text x="132" y="810" class="nodeTitle">模块三 · 填充与再生</text>
+  <text x="812" y="810" class="body" text-anchor="end">12–18 · 玻尿酸、栓塞、溶解酶、再生材料</text>
+  <rect x="76" y="848" width="748" height="62" rx="14" fill="#f8fbfb" stroke="#e3ebeb"/>
+  <circle cx="108" cy="879" r="10" fill="#E69F00"/>
+  <text x="132" y="886" class="nodeTitle">模块四 · 水光与灰区</text>
+  <text x="812" y="886" class="body" text-anchor="end">19–24 · 水光、溶脂、红线清单、核验</text>
+  <rect x="76" y="924" width="748" height="62" rx="14" fill="#f8fbfb" stroke="#e3ebeb"/>
+  <circle cx="108" cy="955" r="10" fill="#CC79A7"/>
+  <text x="132" y="962" class="nodeTitle">模块五 · 决策与自保</text>
+  <text x="812" y="962" class="body" text-anchor="end">25–30 · 面诊、术后、维权、边界</text>
+  <rect x="76" y="1020" width="748" height="82" rx="18" fill="#eef6f8"/>
+  <text x="450" y="1071" class="quote" text-anchor="middle">你付的钱里，最贵的部分应该是出事时有人负责</text>
+  <text x="76" y="1136" class="footer">医学科普系列 · 不构成个体诊疗建议，具体决策请面诊</text>
+</svg>

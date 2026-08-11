@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="620" viewBox="0 0 900 620" role="img" aria-labelledby="title desc">
+  <title id="title">迟发反应的时间轴</title>
+  <desc id="desc">迟发反应可能出现的时间轴示意</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f1f7f8"/>
+      <stop offset="1" stop-color="#fff6eb"/>
+    </linearGradient>
+    <linearGradient id="axg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0072B2"/>
+      <stop offset="0.55" stop-color="#E69F00"/>
+      <stop offset="1" stop-color="#D55E00"/>
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="130%">
+      <feDropShadow dx="0" dy="5" stdDeviation="7" flood-color="#183642" flood-opacity="0.10"/>
+    </filter>
+    <style>
+      .series { font: 700 14px 'Microsoft YaHei', 'Noto Sans CJK SC', sans-serif; letter-spacing: 1.4px; fill: #0072B2; }
+      .title { font: 700 31px 'Microsoft YaHei', 'Noto Sans CJK SC', sans-serif; fill: #17323d; }
+      .kicker { font: 500 17px 'Microsoft YaHei', 'Noto Sans CJK SC', sans-serif; fill: #52656c; }
+      .nodeTitle { font: 700 17px 'Microsoft YaHei', 'Noto Sans CJK SC', sans-serif; fill: #17323d; }
+      .body { font: 500 15px 'Microsoft YaHei', 'Noto Sans CJK SC', sans-serif; fill: #3e5057; }
+      .small { font: 500 13px 'Microsoft YaHei', 'Noto Sans CJK SC', sans-serif; fill: #5c6c72; }
+      .quote { font: 700 20px 'Microsoft YaHei', 'Noto Sans CJK SC', sans-serif; fill: #17323d; }
+      .footer { font: 500 12px 'Microsoft YaHei', 'Noto Sans CJK SC', sans-serif; fill: #68787e; }
+      .tag { font: 700 13px 'Microsoft YaHei', 'Noto Sans CJK SC', sans-serif; }
+    </style>
+  </defs>
+  <rect width="900" height="620" rx="28" fill="url(#bg)"/>
+  <rect x="34" y="30" width="832" height="560" rx="24" fill="#ffffff" opacity="0.96" stroke="#dce8e8" filter="url(#shadow)"/>
+  <text x="62" y="68" class="series">注射美容 30 讲 · 17</text>
+  <text x="62" y="117" class="title">迟发反应的时间轴</text>
+  <text x="62" y="153" class="kicker">有些反应在数月甚至更久之后才出现</text>
+  <line x1="62" y1="181" x2="838" y2="181" stroke="#dce5e5"/>
+  <path d="M 110 350 L 790 350" stroke="#7d8e93" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="110" cy="350" r="10" fill="#56B4E9" stroke="#ffffff" stroke-width="2.5"/>
+  <text x="110" y="305" class="nodeTitle" text-anchor="middle">数周内</text>
+  <text x="110" y="392" class="small" text-anchor="middle">
+    <tspan x="110" dy="0">多数常见反应</tspan>
+    <tspan x="110" dy="20">出现在这一窗口</tspan>
+  </text>
+  <circle cx="450" cy="350" r="10" fill="#E69F00" stroke="#ffffff" stroke-width="2.5"/>
+  <text x="450" y="305" class="nodeTitle" text-anchor="middle">数月后</text>
+  <text x="450" y="392" class="small" text-anchor="middle">
+    <tspan x="450" dy="0">迟发结节</tspan>
+    <tspan x="450" dy="20">可能出现</tspan>
+  </text>
+  <circle cx="790" cy="350" r="10" fill="#D55E00" stroke="#ffffff" stroke-width="2.5"/>
+  <text x="790" y="305" class="nodeTitle" text-anchor="middle">一年以上</text>
+  <text x="790" y="392" class="small" text-anchor="middle">
+    <tspan x="790" dy="0">文献中有</tspan>
+    <tspan x="790" dy="20">更晚的个案</tspan>
+  </text>
+  <text x="450" y="448" class="small" text-anchor="middle">感染、免疫状态变化等可能与迟发反应相关（证据有限）</text>
+  <rect x="62" y="474" width="776" height="72" rx="16" fill="#eef6f8"/>
+  <text x="450" y="518" class="quote" text-anchor="middle">打完没事，不等于永远没事</text>
+  <text x="62" y="570" class="footer">时间为大致范围 · 依据 Humphrey 2020 等文献，个体差异大</text>
+</svg>

@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="620" viewBox="0 0 900 620" role="img" aria-labelledby="title desc">
+  <title id="title">注射后反应的大致时间线</title>
+  <desc id="desc">注射后反应时间线示意</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f1f7f8"/>
+      <stop offset="1" stop-color="#fff6eb"/>
+    </linearGradient>
+    <linearGradient id="axg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0072B2"/>
+      <stop offset="0.55" stop-color="#E69F00"/>
+      <stop offset="1" stop-color="#D55E00"/>
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="130%">
+      <feDropShadow dx="0" dy="5" stdDeviation="7" flood-color="#183642" flood-opacity="0.10"/>
+    </filter>
+    <style>
+      .series { font: 700 14px 'Microsoft YaHei', 'Noto Sans CJK SC', sans-serif; letter-spacing: 1.4px; fill: #0072B2; }
+      .title { font: 700 31px 'Microsoft YaHei', 'Noto Sans CJK SC', sans-serif; fill: #17323d; }
+      .kicker { font: 500 17px 'Microsoft YaHei', 'Noto Sans CJK SC', sans-serif; fill: #52656c; }
+      .nodeTitle { font: 700 17px 'Microsoft YaHei', 'Noto Sans CJK SC', sans-serif; fill: #17323d; }
+      .body { font: 500 15px 'Microsoft YaHei', 'Noto Sans CJK SC', sans-serif; fill: #3e5057; }
+      .small { font: 500 13px 'Microsoft YaHei', 'Noto Sans CJK SC', sans-serif; fill: #5c6c72; }
+      .quote { font: 700 20px 'Microsoft YaHei', 'Noto Sans CJK SC', sans-serif; fill: #17323d; }
+      .footer { font: 500 12px 'Microsoft YaHei', 'Noto Sans CJK SC', sans-serif; fill: #68787e; }
+      .tag { font: 700 13px 'Microsoft YaHei', 'Noto Sans CJK SC', sans-serif; }
+    </style>
+  </defs>
+  <rect width="900" height="620" rx="28" fill="url(#bg)"/>
+  <rect x="34" y="30" width="832" height="560" rx="24" fill="#ffffff" opacity="0.96" stroke="#dce8e8" filter="url(#shadow)"/>
+  <text x="62" y="68" class="series">注射美容 30 讲 · 08</text>
+  <text x="62" y="117" class="title">注射后反应的大致时间线</text>
+  <text x="62" y="153" class="kicker">何时出现什么，决定它是常见反应还是警报</text>
+  <line x1="62" y1="181" x2="838" y2="181" stroke="#dce5e5"/>
+  <path d="M 110 350 L 790 350" stroke="#7d8e93" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="110" cy="350" r="10" fill="#56B4E9" stroke="#ffffff" stroke-width="2.5"/>
+  <text x="110" y="305" class="nodeTitle" text-anchor="middle">当天</text>
+  <text x="110" y="392" class="small" text-anchor="middle">
+    <tspan x="110" dy="0">针点红肿淤青</tspan>
+    <tspan x="110" dy="20">多为局部反应</tspan>
+  </text>
+  <circle cx="336" cy="350" r="10" fill="#009E73" stroke="#ffffff" stroke-width="2.5"/>
+  <text x="336" y="305" class="nodeTitle" text-anchor="middle">数天内</text>
+  <text x="336" y="392" class="small" text-anchor="middle">
+    <tspan x="336" dy="0">效果逐渐显现</tspan>
+    <tspan x="336" dy="20">不适请及时沟通</tspan>
+  </text>
+  <circle cx="563" cy="350" r="10" fill="#0072B2" stroke="#ffffff" stroke-width="2.5"/>
+  <text x="563" y="305" class="nodeTitle" text-anchor="middle">一至两周</text>
+  <text x="563" y="392" class="small" text-anchor="middle">
+    <tspan x="563" dy="0">效果趋于稳定</tspan>
+    <tspan x="563" dy="20">再评估是否达预期</tspan>
+  </text>
+  <circle cx="790" cy="350" r="10" fill="#D55E00" stroke="#ffffff" stroke-width="2.5"/>
+  <text x="790" y="305" class="nodeTitle" text-anchor="middle">任何时候</text>
+  <text x="790" y="392" class="small" text-anchor="middle">
+    <tspan x="790" dy="0">持续加重的症状</tspan>
+    <tspan x="790" dy="20">都应尽快就医</tspan>
+  </text>
+  <text x="450" y="448" class="small" text-anchor="middle">时间为大致范围，个体差异大</text>
+  <rect x="62" y="474" width="776" height="72" rx="16" fill="#eef6f8"/>
+  <text x="450" y="518" class="quote" text-anchor="middle">时间线以外的反应，别自己扛</text>
+  <text x="62" y="570" class="footer">示意时间为大致范围 · 有不适请就医，本图不替代医生判断</text>
+</svg>
